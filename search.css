@@ -9,6 +9,9 @@ input[type=text] {
      -webkit-transition: width 0.15s ease-in-out;
      transition: width 0.15s ease-in-out;
 }
+.textwhite{
+  color: #FFFFFF
+}
 
 /* When the input field gets focus,
        change its width to 100% */
