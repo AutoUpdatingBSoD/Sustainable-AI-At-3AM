@@ -23,19 +23,14 @@
   color: #ffffff
 }
 #homemessage{
-  max-height: 100;
-  width: 50%;
-  height: 50%;
+
   margin: 0 auto;
 }
 #headersubtitle{
   text-align: center;
   margin: 0 auto;
 }
-.markdown{
-  background-color: #111111;
-  font-color: #00ee00
-}
+
 .heightx1{
   height: 30px;
 }
@@ -55,13 +50,11 @@
 .centered
 {
     width: 200px;
-    height: 50px;
     text-align: center;
     margin: 0 auto;
 }
 .centered2
 {
-    height: 50px;
     text-align: center;
     margin: 0 auto;
 }
